@@ -2,7 +2,7 @@
 
 🎓 Computer Science student | 💻 Software Engineer (Placement @ Clear-Com) | 🌐 Web Development & UX Enthusiast  
 
----
+
 
 ## 🚀 About Me  
 
@@ -14,16 +14,16 @@ My background spans both **software engineering** and **marketing/UX**, giving m
 - 🔧 Hands-on with **APIs, database management, and backend integration**  
 - 🎨 Passionate about creating **intuitive, responsive, and engaging user interfaces**  
 
----
+
 
 ## 🛠️ Tech Stack  
 
-- **Languages:** Python, Java, TypeScript, JavaScript, HTML, CSS  
+- **Languages:** Python, Java, TypeScript, JavaScript, HTML, CSS, C++  
 - **Frameworks & Tools:** Angular, Node.js, Postman, Git, Agile/Scrum  
 - **Databases & APIs:** SQL, REST APIs, API design & documentation  
 - **Other Skills:** UX/UI Design, Data Analysis, Software Testing (Unit & Manual QA)  
 
----
+
 
 ## 📌 Notable Experience  
 
@@ -38,14 +38,12 @@ My background spans both **software engineering** and **marketing/UX**, giving m
 - Co-designed and maintained the company's website → boosted **user engagement**  
 - Built **UX interfaces for financial automation tools**, streamlining workflows for advisors  
 
----
 
 ## 🌱 Currently Learning  
 - Advanced **backend engineering** & design patterns  
 - Expanding my **cloud computing & DevOps** knowledge  
 - Building personal projects that combine **data, UX, and full-stack development**  
 
----
 
 ## 📫 Let’s Connect!  
 - [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/giuliana-emberson-software-dev/))
