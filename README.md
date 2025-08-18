@@ -8,6 +8,7 @@ I focus on building **user-friendly embedded software solutions** through a mix 
 ####  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emboiss13&show_icons=true&theme=gotham)
 
+👀 Please visit my work [GitHub Profile](https://github.com/giulyEmb) for a full overview of my 🎖️ **achievements** and 🗓️ **commit history**.
 ##  
 #### 🛠️ Tech Stack  
 • **Languages:** _Python, Java, TypeScript, JavaScript, HTML, CSS, C++_ <br> 
