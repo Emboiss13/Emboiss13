@@ -6,7 +6,7 @@ I focus on building **user-friendly digital solutions** through a mix of **front
 
 ##  
 ####  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emboiss13&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giulyEmb&show_icons=true&theme=gotham)
 
 ##  
 #### 🛠️ Tech Stack  
