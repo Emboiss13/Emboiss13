@@ -1,20 +1,18 @@
-### Hi, I'm Giuly!
+## Hi, I'm Giuly!
 
  💻 **_Software Engineer (@ Clear-Com) | 🎓 Computer Science Student | 🌐 Web & UX Enthusiast_**
  
----
+I focus on building **user-friendly digital solutions** through a mix of **frontend, backend, and UX/UI design**. I am a member of a **SAFe/Scrum team** where I currently have the role of a **front-end developer**, with some exploration into backend development. I focus on implementing and completing entire features using **TypeScript, Angular, APIs, and database integration**.
 
-#### 🚀 About Me  
-I focus on building **user-focused digital solutions** through a mix of **frontend, backend, and UX design**. I am currently primarily working with **TypeScript, Angular, APIs, and database integration** — with an active interest in **clean, responsive UI development**.  
+##  
+####  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emboiss13&show_icons=true&theme=gotham)
 
----
-
+##  
 #### 🛠️ Tech Stack  
-- **Languages:** Python, Java, TypeScript, JavaScript, HTML, CSS, C++ 
-- **Frameworks & Tools:** Angular, Node.js, Git, Postman, Agile/Scrum  
-- **Databases & APIs:** SQL, REST APIs, API documentation & design  
+- _**Languages:**_ Python, Java, TypeScript, JavaScript, HTML, CSS, C++ 
+- _**Frameworks & Tools:**_ Angular, Node.js, Git, Postman, Agile/Scrum  
+- _**Databases & APIs:**_ SQL, REST APIs, API documentation & design
 
----
 
-#### 📱 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/giuliana-emberson-software-dev/)
+
