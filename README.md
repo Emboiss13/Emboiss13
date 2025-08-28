@@ -5,8 +5,11 @@
 I focus on building **user-friendly embedded software solutions** through a mix of **frontend, backend, and UX/UI design**. I am a member of a **SAFe/Scrum team** where I currently have the role of a **front-end developer**, with some exploration into backend development. I focus on implementing and completing entire features using **TypeScript, Angular, APIs & database management**.
 
 ##  
-####  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emboiss13&show_icons=true&theme=gotham)
+#### 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emboiss13&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,issues)
+
+
 
 👀 Please visit my work [GitHub Profile](https://github.com/giulyEmb) for a full overview of my 🎖️ **achievements** and 🗓️ **commit history**.
 ##  
