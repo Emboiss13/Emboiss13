@@ -7,7 +7,7 @@ I focus on building **user-friendly embedded software solutions** through a mix 
 ##  
 #### 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emboiss13&show_icons=true&theme=gotham)
+![GitHub Stats](https://github-readme-stats-nine-sooty-60.vercel.app/api?username=Emboiss13&show_icons=true&theme=gotham)
 
 
 👀 Please visit my work [GitHub Profile](https://github.com/giulyEmb) for a full overview of my 🎖️ **achievements** and 🗓️ **commit history**.
