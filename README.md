@@ -1,6 +1,6 @@
 ## Hi, I'm Giuly!
 
-**Software Engineer (@ Clear-Com) | 🎓 Computer Science Student | 🌐 Web & UX/UI Enthusiast**
+👩🏻‍💻 **Software Engineer (@ Clear-Com) | 🎓 Computer Science Student | 🌐 Web & UX/UI Enthusiast**
  
 I focus on building **user-friendly embedded software solutions** through a mix of **frontend, backend, and UX/UI design**. I am a member of a **SAFe/Scrum team** where I focus on implementing and completing entire features using **TypeScript, Angular, APIs, GitHub, Docker & PouchDB data management**.
 
