@@ -1,6 +1,6 @@
 ## Hi, I'm Giuly!
 
- 💻 **Software Engineer (@ Clear-Com) | 🎓 Computer Science Student | 🌐 Web & UX/UI Enthusiast**
+**Software Engineer (@ Clear-Com) | 🎓 Computer Science Student | 🌐 Web & UX/UI Enthusiast**
  
 I focus on building **user-friendly embedded software solutions** through a mix of **frontend, backend, and UX/UI design**. I am a member of a **SAFe/Scrum team** where I focus on implementing and completing entire features using **TypeScript, Angular, APIs, GitHub, Docker & PouchDB data management**.
 
@@ -12,12 +12,11 @@ I focus on building **user-friendly embedded software solutions** through a mix 
 
 👀 Please visit my work [GitHub Profile](https://github.com/giulyEmb) for a full overview of my 🎖️ **achievements** and 🗓️ **commit history**.
 ##  
-#### 🛠️ Tech Stack  
+
+### My Tech Stack over the years 
 • **Languages:** _Python, Java, TypeScript, JavaScript, HTML, CSS, C++, MATLAB_ <br> 
 • **Frameworks & Tools:** _Angular, React, Node.js, GitHub, Jenkins, Postman_ <br>
 • **Databases & APIs:** _SQL, REST APIs, API documentation & design_ <br> 
-
-### Languages and Tools:
 
 ![Anaconda](https://skillicons.dev/icons?i=anaconda)
 ![Angular](https://skillicons.dev/icons?i=angular)
